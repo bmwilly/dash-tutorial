@@ -1,0 +1,22 @@
+name: dash-tutorial
+channels:
+- conda-forge
+dependencies:
+- autopep8
+- dash=0.28.5
+- flake8
+- ipdb
+- jupyter
+- jupyter_contrib_nbextensions
+- jupyterlab
+- mypy
+- nb_conda
+- nb_conda_kernels
+- nbdime
+- numpy
+- pandas
+- pytest
+- python=3.6
+- pip:
+  - dash-html-components==0.13.2
+  - dash-core-components==0.34.0

@@ -20,3 +20,4 @@ dependencies:
 - pip:
   - dash-html-components==0.13.2
   - dash-core-components==0.34.0
+  - Flask-caching
